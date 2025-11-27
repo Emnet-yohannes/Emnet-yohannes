@@ -22,8 +22,9 @@
 ## About me
 I’m **Emnet**, a **Full-stack Developer** focused on building fast, accessible, and delightful web experiences. I work mostly with **TypeScript**, **React**, **Next.js**, **Next.js** , **Express.js** and **Mapbox**. I love turning complex UI into intuitive interactions.
 
-- 🔭 I’m currently working on: **ProjectName** — (short one-liner).
-- 🌱 I’m learning: Advanced WebGL / 3D maps.
+- 🚀 Working on: A 3D land visualization tool with dynamic flight paths.
+- 🚀 Currently building: A high-performance Next.js dashboard with real-time data.
+- 📚 Leveling up in: System design, scalable frontend architecture.
 - 👯 I’m open to: collaboration on open source & frontend tooling.
 - 📫 How to reach me: connect on <a href="https://www.linkedin.com/in/emnet-yohannes-4132bb1a1" target="_blank">LinkedIn</a> •
 
