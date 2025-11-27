@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Emnet</h1>
 <p align="center"> 
-  <strong>YOUR_ROLE</strong> • building delightful frontends & clean APIs • <em>TypeScript + React + Next.js + Nest.js</em>
+  <strong>Full-stack Engineer</strong> • building delightful frontends & clean APIs • <em>TypeScript + React + Next.js + Nest.js</em>
 </p>
 
 <p align="center">
@@ -45,8 +45,10 @@ I’m **Emnet**, a **Full-stack Developer** focused on building fast, accessible
 <!-- ====== TOP LANGUAGES & STATS (Dynamic cards) ====== -->
 <p align="center">
   <!-- GitHub Readme Stats - replace USERNAME -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Emnet-yohannes&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emnet-yohannes&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emnet-yohannes&cache_bust=1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&cache_seconds=60" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emnet-yohannes&cache_bust=1&layout=compact&langs_count=8&count_private=true&hide=html&cache_seconds=60" alt="Top languages" />
+  
+
 </p>
 
 ---
@@ -158,13 +160,6 @@ A social app clone with posting, interactions, and clean feed UI.
 **Role:** Front-end Developer — focused on UI components and responsive feed layouts.
 
 
----
-
-<!-- ====== ACTIVITY & STREAKS ====== -->
-<p align="center">
-  <!-- Emnet-yohannes -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emnet-yohannes&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
@@ -177,6 +172,3 @@ A social app clone with posting, interactions, and clean feed UI.
 
 ---
 
-<p align="center">
-  <small>Made with ❤️ • Last updated: <!-- auto-manage this if you want --> </small>
-</p>
