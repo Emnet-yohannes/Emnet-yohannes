@@ -25,7 +25,7 @@ I’m **Emnet**, a **Full-stack Developer** focused on building fast, accessible
 - 🔭 I’m currently working on: **ProjectName** — (short one-liner).
 - 🌱 I’m learning: Advanced WebGL / 3D maps.
 - 👯 I’m open to: collaboration on open source & frontend tooling.
-- 📫 How to reach me: connect on [LinkedIn](LINK_TO_LINKEDIN).
+- 📫 How to reach me: connect on <a href="https://www.linkedin.com/in/emnet-yohannes-4132bb1a1" target="_blank">LinkedIn</a> •
 
 ---
 
@@ -45,10 +45,8 @@ I’m **Emnet**, a **Full-stack Developer** focused on building fast, accessible
 <!-- ====== TOP LANGUAGES & STATS (Dynamic cards) ====== -->
 <p align="center">
   <!-- GitHub Readme Stats - replace USERNAME -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Emnet-yohannes&cache_bust=1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&cache_seconds=60" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emnet-yohannes&cache_bust=1&layout=compact&langs_count=8&count_private=true&hide=html&cache_seconds=60" alt="Top languages" />
   
-
 </p>
 
 ---
